@@ -6,6 +6,9 @@ body{
 
     background-color: black;
 }
+.wrapper {
+    text-align: center;
+}
 .faq-title {
     display: block;
     padding: 10px 15px;
